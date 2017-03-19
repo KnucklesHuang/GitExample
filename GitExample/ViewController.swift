@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     func sayHello() {
         print("Hello World!")
     }
+    
+    func testBranch(){
+        print("This is test Branch!!")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
