@@ -25,6 +25,9 @@ class ViewController: UIViewController {
     func testOriginalUserPush(){
         print("This is from original user!!")
     }
+    func testNewUserPush(){
+        print("This is from new user!!")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
