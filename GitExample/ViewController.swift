@@ -21,6 +21,10 @@ class ViewController: UIViewController {
     func testBranch(){
         print("This is test Branch!!")
     }
+    
+    func testNewUserPush(){
+        print("This is from new user!!")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
